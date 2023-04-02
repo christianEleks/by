@@ -564,16 +564,6 @@ body ,html{
         height: 100vh;
        }
  }
-@media only screen and (max-width:480px){
-    .row4{
-        height: 100vh;
-       }
- }
-@media only screen and (max-width:415px){
-    .row4{
-        height: 75vh;
-       }
- }
  @media only screen and (max-width:375px){
     .row4{
         height: 80vh;
