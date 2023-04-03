@@ -136,7 +136,6 @@ body ,html{
    margin-inline: 1cm;
    font-size: 15px;
    font-weight:lighter;
-   word-spacing:-3px;
  }
 .menu-btn{
     position: absolute;
@@ -574,6 +573,10 @@ body ,html{
     .row4{
         height: 80vh;
        }
+         }
+    p{
+        word-spacing: -2px;
+    }
  }
  @media only screen and (max-width:360px){
     .row4{
