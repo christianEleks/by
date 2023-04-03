@@ -134,8 +134,9 @@ body ,html{
  p{
    text-align: justify;
    margin-inline: 1cm;
-   font-size: 14px;
+   font-size: 16px;
    font-weight:lighter;
+   word-spacing:-1px;
  }
 .menu-btn{
     position: absolute;
